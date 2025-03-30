@@ -1,3 +1,5 @@
+![no-text_white-white_cropped_long](https://github.com/user-attachments/assets/98b63f6a-20d5-47ac-9ee2-6f6db9b60a04)
+
 # PhishWhisperer
 # I am an explorer, inventor, patent attorney, and student. 
 ## "Student" does not mean that I attend a school; I constantly study and try to apply my studies to my activities. My activities sometimes determine what I study (e.g. math, programming, abiogensis, etc.). 
