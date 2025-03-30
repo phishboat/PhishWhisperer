@@ -1,4 +1,4 @@
-![no-text_white-white_cropped_long](https://github.com/phishboat/PhishWhisperer/blob/42572f46686a915d187008c50ec5ec9deea0198d/no-text_white-white.jpg)
+![no-text_white-white_cropped_long](https://github.com/phishboat/PhishWhisperer/blob/166b5f69079d4dd54d116316346bade07b611fce/no-text_white-white_cropped_long.png)
 
 
 
